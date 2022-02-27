@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ecommerce-proj/static/css/main.742c8e16.chunk.css",
+    "main.js": "/ecommerce-proj/static/js/main.e4a584da.chunk.js",
+    "main.js.map": "/ecommerce-proj/static/js/main.e4a584da.chunk.js.map",
+    "runtime-main.js": "/ecommerce-proj/static/js/runtime-main.739024c8.js",
+    "runtime-main.js.map": "/ecommerce-proj/static/js/runtime-main.739024c8.js.map",
+    "static/js/2.4f3db1d9.chunk.js": "/ecommerce-proj/static/js/2.4f3db1d9.chunk.js",
+    "static/js/2.4f3db1d9.chunk.js.map": "/ecommerce-proj/static/js/2.4f3db1d9.chunk.js.map",
+    "index.html": "/ecommerce-proj/index.html",
+    "static/css/main.742c8e16.chunk.css.map": "/ecommerce-proj/static/css/main.742c8e16.chunk.css.map",
+    "static/js/2.4f3db1d9.chunk.js.LICENSE.txt": "/ecommerce-proj/static/js/2.4f3db1d9.chunk.js.LICENSE.txt",
+    "static/media/hero-bcg-2.78991864.jpeg": "/ecommerce-proj/static/media/hero-bcg-2.78991864.jpeg",
+    "static/media/hero-bcg.a876f19f.jpeg": "/ecommerce-proj/static/media/hero-bcg.a876f19f.jpeg",
+    "static/media/logo.221f6b13.svg": "/ecommerce-proj/static/media/logo.221f6b13.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.739024c8.js",
+    "static/js/2.4f3db1d9.chunk.js",
+    "static/css/main.742c8e16.chunk.css",
+    "static/js/main.e4a584da.chunk.js"
+  ]
+}
