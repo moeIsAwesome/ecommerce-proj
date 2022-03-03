@@ -8,7 +8,6 @@ import {
   Cart,
   Error,
   Checkout,
-  PrivateRoute,
   Home,
 } from './pages';
 function App() {
@@ -17,7 +16,7 @@ function App() {
       <Navbar />
       <Sidebar />
       <Switch>
-        <Route exact path="/ecommerce-proj">
+        <Route exact path="/home">
           <Home />
         </Route>
         <Route exact path="/singleproduct">
