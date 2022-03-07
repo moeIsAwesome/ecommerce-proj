@@ -15,7 +15,7 @@ const Nav = () => {
     <NavContainer>
       <div className="nav-center">
         <div className="nav-header">
-          <Link to="/">
+          <Link to="/ecommerce-proj">
             <img src={logo} alt="comfy sloth" />
           </Link>
           <button type="button" className="nav-toggle" onClick={openSidebar}>
@@ -31,9 +31,11 @@ const Nav = () => {
               </li>
             );
           })}
-          {myUser && <li>
-            
-            <Link to='/checkout'>checkout</Link> </li>}
+          {myUser && (
+            <li>
+              <Link to="/checkout">checkout</Link>{' '}
+            </li>
+          )}
         </ul>
         <CartButtons />
       </div>
