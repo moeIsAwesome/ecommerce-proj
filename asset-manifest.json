@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ecommerce-proj/static/css/main.742c8e16.chunk.css",
-    "main.js": "/ecommerce-proj/static/js/main.73f9c5a2.chunk.js",
-    "main.js.map": "/ecommerce-proj/static/js/main.73f9c5a2.chunk.js.map",
+    "main.css": "/ecommerce-proj/static/css/main.eff310d5.chunk.css",
+    "main.js": "/ecommerce-proj/static/js/main.39943a60.chunk.js",
+    "main.js.map": "/ecommerce-proj/static/js/main.39943a60.chunk.js.map",
     "runtime-main.js": "/ecommerce-proj/static/js/runtime-main.739024c8.js",
     "runtime-main.js.map": "/ecommerce-proj/static/js/runtime-main.739024c8.js.map",
-    "static/js/2.e6035fb6.chunk.js": "/ecommerce-proj/static/js/2.e6035fb6.chunk.js",
-    "static/js/2.e6035fb6.chunk.js.map": "/ecommerce-proj/static/js/2.e6035fb6.chunk.js.map",
+    "static/js/2.6bb56805.chunk.js": "/ecommerce-proj/static/js/2.6bb56805.chunk.js",
+    "static/js/2.6bb56805.chunk.js.map": "/ecommerce-proj/static/js/2.6bb56805.chunk.js.map",
     "index.html": "/ecommerce-proj/index.html",
-    "static/css/main.742c8e16.chunk.css.map": "/ecommerce-proj/static/css/main.742c8e16.chunk.css.map",
-    "static/js/2.e6035fb6.chunk.js.LICENSE.txt": "/ecommerce-proj/static/js/2.e6035fb6.chunk.js.LICENSE.txt",
+    "static/css/main.eff310d5.chunk.css.map": "/ecommerce-proj/static/css/main.eff310d5.chunk.css.map",
+    "static/js/2.6bb56805.chunk.js.LICENSE.txt": "/ecommerce-proj/static/js/2.6bb56805.chunk.js.LICENSE.txt",
     "static/media/hero-bcg-2.78991864.jpeg": "/ecommerce-proj/static/media/hero-bcg-2.78991864.jpeg",
     "static/media/hero-bcg.a876f19f.jpeg": "/ecommerce-proj/static/media/hero-bcg.a876f19f.jpeg",
     "static/media/logo.221f6b13.svg": "/ecommerce-proj/static/media/logo.221f6b13.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.739024c8.js",
-    "static/js/2.e6035fb6.chunk.js",
-    "static/css/main.742c8e16.chunk.css",
-    "static/js/main.73f9c5a2.chunk.js"
+    "static/js/2.6bb56805.chunk.js",
+    "static/css/main.eff310d5.chunk.css",
+    "static/js/main.39943a60.chunk.js"
   ]
 }
