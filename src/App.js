@@ -15,7 +15,6 @@ import {
 function App() {
   return (
     <AuthWrapper>
-      {' '}
       <Router>
         <Navbar />
         <Sidebar />
