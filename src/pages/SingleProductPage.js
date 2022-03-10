@@ -98,7 +98,7 @@ const Wrapper = styled.main`
     margin-top: 2rem;
   }
   .price {
-    color: var(--clr-primary-5);
+    color: var(--clr-red);
   }
   .desc {
     line-height: 2;

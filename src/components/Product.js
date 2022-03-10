@@ -24,7 +24,7 @@ const Product = ({ image, name, price, id }) => {
 const Wrapper = styled.article`
   .container {
     position: relative;
-    background: var(--clr-black);
+    background: var(--clr-gray-light);
     border-radius: var(--radius);
   }
   img {
@@ -39,7 +39,7 @@ const Wrapper = styled.article`
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    background: var(--clr-primary-5);
+    background: var(--clr-red);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -73,7 +73,7 @@ const Wrapper = styled.article`
   }
 
   footer p {
-    color: var(--clr-primary-5);
+    color: var(--clr-red);
     letter-spacing: var(--spacing);
   }
 `;

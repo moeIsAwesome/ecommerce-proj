@@ -1,6 +1,6 @@
 import React from 'react';
 import styled from 'styled-components';
-import logo from '../assets/logo.svg';
+import logo from '../assets/logo.png';
 import { FaBars } from 'react-icons/fa';
 import { Link } from 'react-router-dom';
 import { links } from '../utils/constants';
@@ -16,7 +16,7 @@ const Nav = () => {
       <div className="nav-center">
         <div className="nav-header">
           <Link to="/ecommerce-proj">
-            <img src={logo} alt="comfy sloth" />
+            <img className="logo" src={logo} alt="comfy sloth" />
           </Link>
           <button type="button" className="nav-toggle" onClick={openSidebar}>
             <FaBars />
@@ -59,14 +59,13 @@ const NavContainer = styled.nav`
     align-items: center;
     justify-content: space-between;
     img {
-      width: 175px;
-      margin-left: -15px;
+      width: 155px;
     }
   }
   .nav-toggle {
     background: transparent;
     border: transparent;
-    color: var(--clr-primary-5);
+    color: var(--clr-red);
     cursor: pointer;
     svg {
       font-size: 2rem;
@@ -78,6 +77,10 @@ const NavContainer = styled.nav`
   .cart-btn-wrapper {
     display: none;
   }
+
+  .logo {
+    padding-top: 3rem;
+  }
   @media (min-width: 992px) {
     .nav-toggle {
       display: none;
@@ -87,6 +90,7 @@ const NavContainer = styled.nav`
       grid-template-columns: auto 1fr auto;
       align-items: center;
     }
+
     .nav-links {
       display: flex;
       justify-content: center;
@@ -94,13 +98,13 @@ const NavContainer = styled.nav`
         margin: 0 0.5rem;
       }
       a {
-        color: var(--clr-grey-3);
+        color: var(--clr-gray-dark);
         font-size: 1rem;
         text-transform: capitalize;
         letter-spacing: var(--spacing);
         padding: 0.5rem;
         &:hover {
-          border-bottom: 2px solid var(--clr-primary-7);
+          border-bottom: 2px solid var(--clr-red-light);
         }
       }
     }

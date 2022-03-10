@@ -156,7 +156,7 @@ const Wrapper = styled.section`
   }
   .search-input {
     padding: 0.5rem;
-    background: var(--clr-grey-10);
+    background: var(--clr-white);
     border-radius: var(--radius);
     border-color: transparent;
     letter-spacing: var(--spacing);
@@ -174,14 +174,14 @@ const Wrapper = styled.section`
     border: none;
     border-bottom: 1px solid transparent;
     letter-spacing: var(--spacing);
-    color: var(--clr-grey-5);
+    color: var(--clr-gray-dark);
     cursor: pointer;
   }
   .active {
-    border-color: var(--clr-grey-5);
+    border-color: var(--clr-gray-dark);
   }
   .company {
-    background: var(--clr-grey-10);
+    background: var(--clr-white);
     border-radius: var(--radius);
     border-color: transparent;
     padding: 0.25rem;

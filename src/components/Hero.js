@@ -42,7 +42,7 @@ const Wrapper = styled.section`
     line-height: 2;
     max-width: 45em;
     margin-bottom: 2rem;
-    color: var(--clr-grey-5);
+    color: var(--clr-gray-dark);
     font-size: 1rem;
   }
   @media (min-width: 992px) {
@@ -65,7 +65,7 @@ const Wrapper = styled.section`
     }
     .main-img {
       width: 100%;
-      height: 550px;
+      height: 540px;
       position: relative;
       border-radius: var(--radius);
       display: block;
@@ -84,7 +84,7 @@ const Wrapper = styled.section`
       position: absolute;
       width: 10%;
       height: 80%;
-      background: var(--clr-primary-9);
+      background: var(--clr-white);
       bottom: 0%;
       left: -8%;
       border-radius: var(--radius);

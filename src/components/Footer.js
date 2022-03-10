@@ -5,7 +5,11 @@ const Footer = () => {
     <Wrapper>
       <h5>
         &copy;{new Date().getFullYear()}
-        <span> ComfySloth </span>
+        <span>
+          {' '}
+          <strong>Cozy-Cushy</strong>
+          {''}
+        </span>
       </h5>
       <h5>All rights reserved</h5>
     </Wrapper>
@@ -18,10 +22,10 @@ const Wrapper = styled.footer`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: var(--clr-black);
+  background: var(--clr-gray);
   text-align: center;
   span {
-    color: var(--clr-primary-5);
+    color: var(--clr-gray-light);
   }
   h5 {
     color: var(--clr-white);

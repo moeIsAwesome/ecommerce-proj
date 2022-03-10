@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../assets/logo.svg';
+import logo from '../assets/logo.png';
 import { Link } from 'react-router-dom';
 import { useProductsContext } from '../context/products_context';
 import { FaTimes } from 'react-icons/fa';
@@ -57,7 +57,7 @@ const SidebarContainer = styled.div`
     font-size: 2rem;
     background: transparent;
     border-color: transparent;
-    color: var(--clr-primary-5);
+    color: var(--clr-red);
     transition: var(--transition);
     cursor: pointer;
     color: var(--clr-red-dark);
@@ -79,7 +79,7 @@ const SidebarContainer = styled.div`
     font-size: 1rem;
     text-transform: capitalize;
     padding: 1rem 1.5rem;
-    color: var(--clr-grey-3);
+    color: var(--clr-gray);
     transition: var(--transition);
     letter-spacing: var(--spacing);
   }
@@ -87,8 +87,8 @@ const SidebarContainer = styled.div`
   .links a:hover {
     padding: 1rem 1.5rem;
     padding-left: 2rem;
-    background: var(--clr-grey-10);
-    color: var(--clr-grey-2);
+    background: var(--clr-gray-light);
+    color: var(--clr-gray);
   }
 
   .sidebar {

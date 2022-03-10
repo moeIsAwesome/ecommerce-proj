@@ -1,27 +1,27 @@
-import React from 'react'
-import styled from 'styled-components'
-import { useCartContext } from '../context/cart_context'
-import { Link } from 'react-router-dom'
-import CartColumns from './CartColumns'
-import CartItem from './CartItem'
-import CartTotals from './CartTotals'
+import React from 'react';
+import styled from 'styled-components';
+import { useCartContext } from '../context/cart_context';
+import { Link } from 'react-router-dom';
+import CartColumns from './CartColumns';
+import CartItem from './CartItem';
+import CartTotals from './CartTotals';
 const CartItems = () => {
-  const { cart, clearCart } = useCartContext()
+  const { cart, clearCart } = useCartContext();
 
   return (
-    <Wrapper className='section section-center'>
+    <Wrapper className="section section-center">
       <CartColumns />
       {cart.map((item) => {
-        return <CartItem key={item.id} {...item} />
+        return <CartItem key={item.id} {...item} />;
       })}
       <hr />
-      <div className='link-container'>
-        <Link to='/products' className='link-btn'>
+      <div className="link-container">
+        <Link to="/products" className="link-btn">
           continue shopping
         </Link>
         <button
-          type='button'
-          className='link-btn clear-btn'
+          type="button"
+          className="link-btn clear-btn"
           onClick={clearCart}
         >
           clear shopping cart
@@ -29,8 +29,8 @@ const CartItems = () => {
       </div>
       <CartTotals />
     </Wrapper>
-  )
-}
+  );
+};
 const Wrapper = styled.section`
   .link-container {
     display: flex;
@@ -42,7 +42,7 @@ const Wrapper = styled.section`
     border-color: transparent;
     text-transform: capitalize;
     padding: 0.25rem 0.5rem;
-    background: var(--clr-primary-5);
+    background: var(--clr-red);
     color: var(--clr-white);
     border-radius: var(--radius);
     letter-spacing: var(--spacing);
@@ -50,7 +50,7 @@ const Wrapper = styled.section`
     cursor: pointer;
   }
   .clear-btn {
-    background: var(--clr-black);
+    background: var(--clr-gray);
   }
-`
-export default CartItems
+`;
+export default CartItems;
