@@ -2,26 +2,19 @@
   <img width="100" height="100" src="https://lh3.googleusercontent.com/fife/AAbDypD_HBqOXnVf9kgSXGu5xO27cfClyKYpfzZbsqsGkdXNIFOyPuECEDEPzyAPypFGII6lMzFb6dsCmnQL96U8nxIR-cdxMV40HMSKHfAfAJMHTHfV-Gi8gOOgkTTT_FvwdTF63pEgIhufZUfxAAvjA1Em8eS2Q-dcOPikqpmgtcjrQqKLjuqOwWlLieOkEqApvXQDl_46cm91BfYd1pFv-aKN8aocOV6QAsN01p6fjFmdj0HkF1biUoyK8DGXSLjtdB0A-RlF0uzibEAUiRUc1tOeBdXmWQHXSFFzDFlSv0LF7XqDEtSltA_9Ia-8xfXld_bX7irwE02Z5-86TJrZeByxgTNQc4X5VXmG3NCa_JaGEKFayN1OGkayq6_NP4pzyyJ5Rrb9b4Y8fXMRQw411i0w7JzwdMBI6Yw5h9kK2n8M1TlVihqwbT_l8brSOGsvYN5QnXx9ZGfAWGP3dlXG9mVOQkjJ8t8H6ybv2LYGNiWXHGQgc8tTZ_PxsIk9FZiMAQFEmNzqmPcmOPguBXOgO2rQCm4YhwE1WmZcrE4vWNWffUU277pDKRBxjuVxEMHso4_MJmqVeDJ2ius8nMwNEfXT9rlGCW2fYF2dufganvz4PSJ9MS_zSMyNUMAj1YGb-xOREfLr_DyX9noNK12dLYdNxWG4cfmmi15JsUb6PaRhcbZuydIpZ9x2VxbpCczPDLNaA-MN7cP3EyPUbPSLxZZqIax5768yNIgOcRHmWap8T5L1SwKAGTKjKXH7H6xv27ipo2l2kMeiTDTz-YPHP2bscVcxobanrhi8jqcEvAp5aRkFJFJAvfThS6e5EcQzQrGr5vgGEbtOSFzb-BlssPdVcHn42Ma6XCP6Igyv3KpkZEy4rGIFTJ46pAE99NyysWsjXxkUruVfm8sfdUx6KNbFhQG32wCEx1eO_QYjQRJ8blrM6OrbT43UrGvmWkGihaUP5ddS8Sx--cJaSrfhMJNBMRRihqun7-uDGlQl1VRIgm2jTdWL9IkY1Lk_FIa_dylHVwvaK1iBsue8twvMi-xM8lKMeEUwygwErA1jHSd4cIT44dFKIyTeNQ7EAGMCFdGsY73n-7mACaKeAbFa-0QxsNuS3vkKMQG6VHQP8G3CwP7bIKzadgQBH6HoViBTOmzxBZWHlOZH35b7Lak79pI7G-mwsD3lWg9DlQUYgZurJytPYsAvBzHpIFAshKwTG4TRSnIjQUsjYRAnlu42BGcwsZkVTg_-9QEwc7A8TooUWbWwsgH3-7aBa4i6WLU_heKnBxE2hgmAY5YAvYyda0KLbk1If3ZProiz85gn3hpC=w3024-h1554">
 </div>
 
-## Wednesday is a good to to start something new!
+## Cozy-Cushy helps you find the best furniture!
 
-### You tell me the name of players, and I'll generate the most equal teams you can imagine.
+### Easily browse through our countless products and choose what you want.
 
-Every single Wednesday, my friends and I used to spend an awful lot of time arguing.
-Your team gonna blow away ours! My team is crap! This is not fair...blah blah blah...
-I solved the problem by developing this app. Just give it the players' name, and it divides the teams as fairly as possible!
+Cozy Cushy is an standard and fast eCommerce project.
 
 **NOTE**
-It is a desktop-first project and you may have a bad user experience if you use your phone, even though it is a responsive site for mobile phones and tablets.
-This is my personal project that my friends and I use almost every week. The retro UI design indicates our long friendship.
+This is a personal project.
 
 https://moeisawesome.github.io/ecommerce-proj/
 
 **What tools were used in this project?**
-* NodeJS
-* Express
-* MongoDB
-* Mongoose
-* MongoDB Realm
+
 * React JS
 
 <div align="center">
