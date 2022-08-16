@@ -1,5 +1,5 @@
 <div align="left">
-  <img width="100" height="100" src="https://lh3.googleusercontent.com/fife/AAWUweVKi8tEYM9WMfnEgDo8MQy8iE3OoZerypb5CokDK4XSPBhphuxctuV0w5jc1WQoCCMOvvQxecN6IgqsbODFRTu31aPyeWqT8is-N8KBmvzKNkGAECM0SonbGoTlh6QgymtSxRUo10qxAkWRIfa45VoqqTX9O4wCRro29dXC2Y8BxniNrxsq9QYCJU_K9mioHDWyO7u_sVyAq5XErtfyrMeGNZYOArszHhJLbZsYtUan_xuXJLvFNXlsDq6AmqPizSY663zneFqUJ3zxoiYcQR2FgwT3_VDWH4fqV9ZaE9RkRGPldwBfNKUwH3_WagLJib_KTQc-EjifaIILw2YS-qoTK0xjI4O5ttChhk1nYzsS3VTpFkUBMsjpndHElPvfXKJJBQW24trfz5o42NK3z6llV5Q8cJGkujGF-GNwHpIkTQ-4FGpRWNTYsL0StKPrLsH-ZJMcomauV3KbfpYWpxEbLngfXo63tPxvltMuT0l-A-oYY1wL7YJQFAqAB08Rd9v36mGRNHomE1Cp4U_JEh-g2SDpDSzKfxTaExvDzJj00Pl5s1V4SSa8hcF1RGa3U5zdvY4qOwe6u15JJkM8pPMVu2fHAdqZTDXGROfO_Q_6I5zksH0MHq8vRES5UUlKujh1k4w_JqpvdO_8VT_0wwOtcNMduujniGeNWpnJ0DbzsLjnBBEUsHP0DQv6zWMWPVKmV_sQ2fWFbjHZf-eUlDDt9gZcWKGLyCw=w1920-h937">
+  <img width="100" height="100" src="https://lh3.google.com/u/0/d/1KNPxLwVa1nHJByHD3JqE6U6JH2PGv_20=w3024-h1554-iv1">
 </div>
 
 ## Wednesday is a good to to start something new!
