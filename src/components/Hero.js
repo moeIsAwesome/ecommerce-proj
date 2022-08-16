@@ -13,7 +13,7 @@ const Hero = () => {
           comfort zone
         </h1>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Eos
+          Lorem1 ipsum dolor sit amet consectetur adipisicing elit. Eos
           blanditiis ad, cumque odit dolore quae error harum unde itaque
           dolorem, provident debitis id facere numquam. Ab magni modi quae
           quasi!
