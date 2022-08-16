@@ -14,7 +14,7 @@ I solved the problem by developing this app. Just give it the players' name, and
 It is a desktop-first project and you may have a bad user experience if you use your phone, even though it is a responsive site for mobile phones and tablets.
 This is my personal project that my friends and I use almost every week. The retro UI design indicates our long friendship.
 
-https://moeisawesome.github.io/cozy-cushy/
+https://moeisawesome.github.io/ecommerce-proj/
 
 **What tools were used in this project?**
 * NodeJS
