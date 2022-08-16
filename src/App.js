@@ -19,7 +19,7 @@ function App() {
         <Navbar />
         <Sidebar />
         <Switch>
-          <Route exact path="/ecommerce-proj">
+          <Route exact path="/cozy-cushy">
             <Home />
           </Route>
           <Route exact path="/singleproduct">
